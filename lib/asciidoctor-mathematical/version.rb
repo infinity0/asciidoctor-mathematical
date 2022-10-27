@@ -1,5 +1,5 @@
 module Asciidoctor
   module Mathematical
-    VERSION = "0.3.5"
+    VERSION = "0.1003.5"
   end
 end
